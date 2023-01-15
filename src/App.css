@@ -5,6 +5,11 @@ font-family: 'Tangerine', cursive;
 */
 
 /* Universal */
+
+html {
+  overflow-y: scroll;
+}
+
 html,
 body {
   margin: 0;
