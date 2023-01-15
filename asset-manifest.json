@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.0eab5d34.css",
+    "main.js": "/homepage/static/js/main.6e4b7fb2.js",
+    "static/js/787.5c39024c.chunk.js": "/homepage/static/js/787.5c39024c.chunk.js",
+    "static/media/fotomatic.png": "/homepage/static/media/fotomatic.ad4ea23eee365064f3a5.png",
+    "static/media/harmony.png": "/homepage/static/media/harmony.26c861ccc24de113701b.png",
+    "static/media/teacozy.png": "/homepage/static/media/teacozy.98718b69a53d761b74ba.png",
+    "static/media/splash.png": "/homepage/static/media/splash.ea2b71886cdb8c7c96c4.png",
+    "static/media/guldan.png": "/homepage/static/media/guldan.37d22177ec1665c3c64b.png",
+    "static/media/dasmoto.png": "/homepage/static/media/dasmoto.bdb09b63bf80ab85dedb.png",
+    "static/media/styleguide.png": "/homepage/static/media/styleguide.527490002cd31e81560c.png",
+    "static/media/dod.png": "/homepage/static/media/dod.6f920dd779f37ce443e2.png",
+    "static/media/thenumbersmason.png": "/homepage/static/media/thenumbersmason.ae17dc62c727db8a2350.png",
+    "index.html": "/homepage/index.html",
+    "main.0eab5d34.css.map": "/homepage/static/css/main.0eab5d34.css.map",
+    "main.6e4b7fb2.js.map": "/homepage/static/js/main.6e4b7fb2.js.map",
+    "787.5c39024c.chunk.js.map": "/homepage/static/js/787.5c39024c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eab5d34.css",
+    "static/js/main.6e4b7fb2.js"
+  ]
+}
